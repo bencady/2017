@@ -1,0 +1,29 @@
+{
+  "name": "2017",
+  "version": "0.0.2",
+  "description": "learning node server in Gary's coding class",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencady/2017.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "server",
+    "seattle",
+    "academey"
+  ],
+  "author": "benson cady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencady/2017/issues"
+  },
+  "homepage": "https://github.com/bencady/2017#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
